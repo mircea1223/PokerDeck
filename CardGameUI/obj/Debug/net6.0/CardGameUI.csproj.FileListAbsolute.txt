@@ -1,0 +1,15 @@
+C:\Users\mirce\Desktop\TimProjects\CardGameApp\CardGameUI\bin\Debug\net6.0\CardGameUI.exe
+C:\Users\mirce\Desktop\TimProjects\CardGameApp\CardGameUI\bin\Debug\net6.0\CardGameUI.deps.json
+C:\Users\mirce\Desktop\TimProjects\CardGameApp\CardGameUI\bin\Debug\net6.0\CardGameUI.runtimeconfig.json
+C:\Users\mirce\Desktop\TimProjects\CardGameApp\CardGameUI\bin\Debug\net6.0\CardGameUI.dll
+C:\Users\mirce\Desktop\TimProjects\CardGameApp\CardGameUI\bin\Debug\net6.0\ref\CardGameUI.dll
+C:\Users\mirce\Desktop\TimProjects\CardGameApp\CardGameUI\bin\Debug\net6.0\CardGameUI.pdb
+C:\Users\mirce\Desktop\TimProjects\CardGameApp\CardGameUI\obj\Debug\net6.0\CardGameUI.csproj.AssemblyReference.cache
+C:\Users\mirce\Desktop\TimProjects\CardGameApp\CardGameUI\obj\Debug\net6.0\CardGameUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mirce\Desktop\TimProjects\CardGameApp\CardGameUI\obj\Debug\net6.0\CardGameUI.AssemblyInfoInputs.cache
+C:\Users\mirce\Desktop\TimProjects\CardGameApp\CardGameUI\obj\Debug\net6.0\CardGameUI.AssemblyInfo.cs
+C:\Users\mirce\Desktop\TimProjects\CardGameApp\CardGameUI\obj\Debug\net6.0\CardGameUI.csproj.CoreCompileInputs.cache
+C:\Users\mirce\Desktop\TimProjects\CardGameApp\CardGameUI\obj\Debug\net6.0\CardGameUI.dll
+C:\Users\mirce\Desktop\TimProjects\CardGameApp\CardGameUI\obj\Debug\net6.0\ref\CardGameUI.dll
+C:\Users\mirce\Desktop\TimProjects\CardGameApp\CardGameUI\obj\Debug\net6.0\CardGameUI.pdb
+C:\Users\mirce\Desktop\TimProjects\CardGameApp\CardGameUI\obj\Debug\net6.0\CardGameUI.genruntimeconfig.cache
